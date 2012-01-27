@@ -11,7 +11,6 @@ Part 1: CSS / Design
    for bookmarking) should be copied along with their respective stylesheets.
 5. Go to your Dashboard, Themes, and apply your new theme.
 6. Edit the copied CSS files to look however you wish!
-    color: #883e88;
 
 Other things you should know:
 

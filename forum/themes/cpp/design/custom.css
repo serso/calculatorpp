@@ -1,0 +1,29 @@
+#Head {
+    background: none repeat scroll 0 0 #723c7f;
+}
+
+.MessageForm, .Tabs, .Headings {
+    background: none repeat scroll 0 0 #ebb3f9;
+    border-bottom: 1px solid #883e88;
+}
+
+a.BigButton {
+    color: #883e88;
+}
+
+.Box {
+    background: none repeat scroll 0 0 #ebb3f9;
+}
+
+.Box h4 {
+    color: #883e88;
+}
+
+a {
+    color: #883e88;
+}
+
+a:hover {
+    color: #883e88;
+    text-decoration: underline;
+}
