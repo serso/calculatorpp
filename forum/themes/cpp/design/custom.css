@@ -3,16 +3,25 @@
 }
 
 .MessageForm, .Tabs, .Headings {
-    background: none repeat scroll 0 0 #ebb3f9;
+    background: none repeat scroll 0 0 #f6ddfc;
+    border-bottom: 1px solid #883e88;
+}
+
+.Mine {
+    background: none repeat scroll 0 0 #fbf7fc;
+}
+
+.Foot {
+    background: none repeat scroll 0 0 #f6ddfc;
     border-bottom: 1px solid #883e88;
 }
 
 a.BigButton {
-    color: #883e88;
+    color: #581558;
 }
 
 .Box {
-    background: none repeat scroll 0 0 #ebb3f9;
+    background: none repeat scroll 0 0 #f6ddfc;
 }
 
 .Box h4 {
@@ -20,10 +29,57 @@ a.BigButton {
 }
 
 a {
-    color: #883e88;
+    color: #581558;
 }
 
 a:hover {
-    color: #883e88;
+    color: #581558;
     text-decoration: underline;
+}
+
+.TabLink, .TabLink:link, .TabLink:hover, .TabLink:active, .TabLink:visited {
+    background: none repeat scroll 0 0 white;
+    border: 1px solid #c577d9;
+    color: #883e88;
+}
+
+div.Popup h1, div.Popup h2 {
+    background: none repeat scroll 0 0 #883e88;
+    border-bottom: 1px solid #883e88;
+}
+
+a.Button, .Button {
+    color: #883e88;
+}
+
+.PanelInfo li {
+    background: none repeat scroll 0 0 white;
+    border-bottom: 1px solid #883e88;
+}
+
+.PanelInfo .Active {
+    border-bottom: 1px solid #883e88;
+}
+.PanelInfo .Active a {
+    font-weight: bold;
+    color: #883e88;
+}
+.PanelInfo {
+    border-top: 1px solid #883e88;
+}
+
+.Tabs li a span {
+    background: none repeat scroll 0 0 #581558;
+}
+
+.Activities .Excerpt a, .Activities .Meta a {
+    color: #581558;
+}
+
+.Activities .Excerpt a:hover, .Activities .Meta a:hover {
+    color: #581558;
+}
+
+body.Profile .PanelInfo {
+    border-bottom: 1px solid #883e88;
 }
